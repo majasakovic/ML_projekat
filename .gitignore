@@ -9,3 +9,7 @@ __pycache__/
 *.pth
 *.pkl
 /anaconda_projects
+
+notebooks_draft/
+*_experiments.ipynb
+*scratch*.ipynb
