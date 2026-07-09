@@ -12,3 +12,11 @@ __pycache__/
 notebooks_draft/
 *_experiments.ipynb
 *scratch*.ipynb
+
+models/*
+!models/.gitkeep
+
+*.pth
+*.pt
+*.ckpt
+*.joblib
